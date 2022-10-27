@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://codepen.io/marvel-deone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marvel-deone" height="30" width="40" /></a>
 <a href="https://dev.to/folagbadeolowofela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="folagbadeolowofela" height="30" width="40" /></a>
 <a href="https://twitter.com/folagbadeolowo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="folagbadeolowo1" height="30" width="40" /></a>
