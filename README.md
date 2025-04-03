@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Folagbade Olowofela</h1>
-<h3 align="center" style="margin-bottom: 20px">A passionate Software developer</h3>
+<h1>Hi 👋, I'm Folagbade Olowofela</h1>
+<h3 style="margin-bottom: 20px">A passionate Software developer</h3>
 
 <p> From crafting seamless user experiences to optimizing performance, I love turning ideas into functional, user-friendly applications. I build with precision, solve problems with code, and thrive in collaborative environments where innovation meets execution. 🚀💡</p>
 
